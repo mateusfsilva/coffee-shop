@@ -1,7 +1,7 @@
 # Coffee Shop
 
 Este repositório tem como objetivo apresentar o projeto do Coffee Shop. O projeto será usado para avaliar os candidatos a vaga de dev mobile Flutter na Blu by BS2 no primeiro semestre de 2020.  
-  
+
 Utilizaremos no projeto o design [Neumorphic app template XD Freebie](neumorph_app_ui_freebie_xd_by_Zhenya_groupping.xd) da [Zhenya Karapetyan](https://dribbble.com/jenkarapetyan) que também está disponível no [Dribbble](https://dribbble.com/shots/10114826-Nneumorphic-app-template-XD-Freebie).
 
 ![Imagem com telas do design do projeto](https://cdn.dribbble.com/users/1054642/screenshots/10114826/media/fce54f56200c4d0324aeb474ceea842c.png)
@@ -12,7 +12,7 @@ Utilizaremos no projeto o design [Neumorphic app template XD Freebie](neumorph_a
 
 - O projeto deve ser privado e com acesso para o usuário [@mateusfsilva](https://github.com/mateusfsilva) do GitHub ou [@mateusfsilva](https://gitlab.com/mateusfsilva) no GitLab ou [@mateusfsilva](https://bitbucket.org/mateusfsilva) no Bitbucket. Caso usem outro repositório favor enviar o acesso para o e-mail [mateus@blubybs2.com](malito:mateus@blubybs2.com).
 
-- Disponibilizamos aqui no repositório alguns [assets](assets/) quem podem ser usados no projeto.
+- Disponibilizamos aqui no repositório alguns [assets](assets/) quem podem ser usados no projeto. Obs: Este repositório utiliza [lfs](https://git-lfs.github.com).
 
 - Um dos objetivos do projeto é avaliarmos a capacidade dos candidatos em criar os widgets baseando-se em um design e mantendo-se o mais fiel possível a ele.
 
